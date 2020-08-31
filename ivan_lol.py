@@ -21,4 +21,6 @@ $ git pull origin master
 - подтянуть изменения из удаленного репо(origin) из ветки master в текущую ветку(на которой мы)
 $ git checkout -b new_branch_name
 - создать новую ветку и переключиться на нее
+$ git checkout exist_branch
+- переключение на существующую ветку
 """
